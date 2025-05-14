@@ -1,7 +1,6 @@
 # Web-Clone-Linux
 Duplicate Web Html Content Easily Linux
 
-
 # How To Install
 ````
 apt update && apt upgrade -y
